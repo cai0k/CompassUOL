@@ -1,5 +1,5 @@
-### Exercicios
+### Exercicios:
 
-### Evidencias
+### Evidencias:
 
-### Certificados
+### Certificados:
