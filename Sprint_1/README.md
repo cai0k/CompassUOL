@@ -1,4 +1,4 @@
-### Exercicios
+### Exercicios:
 
 Criar um repositório (privado) para armazenar anotações e códigos criados ao longo do Programa de Bolsas no GitHub(em sua própria conta pessoal). Adicione como colaborador do repositório o usuário da-schoolarship.
 
@@ -20,10 +20,10 @@ Afora as considerações anteriores, toda estrutura do arquivo README e do próp
 
 Realizar as operações de commit e push para o GitHub das estruturas de pastas e arquivos criados nos exercícios anteriores.
 
-### Evidencias
+### Evidencias:
 
 
-### Certificados
+### Certificados:
 
 ![Curso Git e GitHub Avançado](certificados/Certificado%20Curso%20de%20Git%20e%20Github.png)
 
