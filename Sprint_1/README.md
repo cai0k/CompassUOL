@@ -1,3 +1,5 @@
+### Bom, meu nome é Caio. Tenho 21 anos, sou de Salvador e estou no 3º semestre de Ciência da Computação na Unifacs. Inicialmente, comecei fazendo Engenharia da Computação, mas quando comecei a estudar programação, curti logo de cara e decidi mudar para um curso com mais foco nessa área. Apesar de a Engenharia ainda ter matérias de programação, havia um grande foco em matérias de cálculo. Essa é minha primeira experiência na área e espero aprender bastante com essa oportunidade.
+
 ### Exercicios:
 
 Criar um repositório (privado) para armazenar anotações e códigos criados ao longo do Programa de Bolsas no GitHub(em sua própria conta pessoal). Adicione como colaborador do repositório o usuário da-schoolarship.
@@ -28,3 +30,5 @@ Realizar as operações de commit e push para o GitHub das estruturas de pastas 
 ![Curso Git e GitHub Avançado](certificados/Certificado%20Curso%20de%20Git%20e%20Github.png)
 
 ![Certificado Sprint 1](certificados/Sprint%201%20certificado.png)
+
+![Certificado curso de linux](certificados/Curso%20linux.png)
