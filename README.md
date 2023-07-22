@@ -16,7 +16,7 @@
 
 ![exercicio 4](./Sprint_1/exercicios/Ex4.md)
 
-
+## Certificados
 ![Certificado curso de Git e GitHub](./Sprint_1/certificados/Certificado%20Curso%20de%20Git%20e%20Github.png)
 
 
