@@ -4,20 +4,20 @@
 * Funcionalidades dos comandos Git e do site GitHub.
 * Ambiente Linux e comandos.
 
-#### Exercicio 1:
-![Exercicio 1](<Sprint_1/evidencias/Sprint 1 Ex1.png>)
+## Exercicios
+![Exercicio 1](./Sprint_1/exercicios/Ex1.md)
 
-#### Exercicio 2:
-![Exercicio 2](<Sprint_1/evidencias/Sprint 1 Ex2.png>)
 
-#### Exercicio 3:
-![Exercicio 3](<Sprint_1/evidencias/Sptin 1 Ex3.png>)
+![Exercicio 2](./Sprint_1/exercicios/Ex2.md)
 
-#### Exercicio 4:
-![exercicio 4](<Sprint_1/evidencias/Sprint 1 Ex4.png>)
 
-#### Certificado curso de Git e GitHub:
-![Certificado curso de Git e GitHub](<Sprint_1/certificados/Certificado Curso de Git e Github.png>)
+![Exercicio 3](./Sprint_1/exercicios/Ex3.md)
 
-#### Certificado curso Linux:
-![Certificado curso de Linux](<Sprint_1/certificados/Curso linux.png>)
+
+![exercicio 4](./Sprint_1/exercicios/Ex4.md)
+
+
+![Certificado curso de Git e GitHub](./Sprint_1/certificados/Certificado%20Curso%20de%20Git%20e%20Github.png)
+
+
+![Certificado curso de Linux](./Sprint_1/certificados/Curso%20linux.png)
