@@ -5,7 +5,7 @@
 * Conceitos e fundamentos de BigData
 
 ## Exercicios
-![Exercicio 1](./Sprint_2/exercicios/Ex1.md)
+![Exercicio 1](../Sprint_2/exercicios/Ex1.md)
 
 
 ![Exercicio 2](./Sprint_2/exercicios/Ex2.md)
