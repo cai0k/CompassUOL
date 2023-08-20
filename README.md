@@ -149,3 +149,18 @@
 
 
 ![Exercicio 20](<./Sprint_3/exercicios/Ex20.md>)
+
+
+![Exercicio - ETL etapa 1](<./Sprint_3/exercicios/etapa-1.txt>)
+
+
+![Exercicio - ETL etapa 2](<./Sprint_3/exercicios/etapa-2.txt>)
+
+
+![Exercicio - ETL etapa 3](<./Sprint_3/exercicios/etapa-3.txt>)
+
+
+![Exercicio - ETL etapa 4](<./Sprint_3/exercicios/etapa-4.txt>)
+
+
+![Exercicio - ETL etapa 5](<./Sprint_3/exercicios/etapa-5.txt>)
