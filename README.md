@@ -175,21 +175,21 @@
 
 ### Exercicios
 
-![Exercicio 1](<./Sprint_4/evidencias/Sprint 4 Ex1.png>)
+![Exercicio 1](<./Sprint_4/exercicios/Ex1.md>)
 
-![Exercicio 2](<./Sprint_4/evidencias/Sprint 4 Ex2.png>)
+![Exercicio 2](<./Sprint_4/exercicios/Ex2.md>)
 
-![Exercicio 3](<./Sprint_4/evidencias/Sprint 4 Ex3.png>)
+![Exercicio 3](<./Sprint_4/exercicios/Ex3.md>)
 
-![Exercicio 4](<./Sprint_4/evidencias/Sprint 4 Ex4.png>)
+![Exercicio 4](<./Sprint_4/exercicios/Ex4.md>)
 
-![Exercicio 5](<./Sprint_4/evidencias/Sprint 4 Ex5.png>)
+![Exercicio 5](<./Sprint_4/exercicios/Ex5.md>)
 
-![Exercicio Docker - parte1(Dockerfile)](<./evidencias/Sprint 4 Docker - parte1.png>)
+![Exercicio Docker - parte1(Dockerfile)](<./Sprint_4/exercicios/Ex Docker1.md>)
 
-![Exercicio Docker - parte 2(Dockerfile)](<./evidencias/Sprint 4 Docker - parte2(Dockerfile).png>)
+![Exercicio Docker - parte 2(Dockerfile)](<./Sprint_4/exercicios/Ex Docker2.md>)
 
-![Exercicio Docker - parte 2(Codigo python)](<./evidencias/Sprint 4 Docker - parte2(codigo python).png>)
+![Exercicio Docker - parte 2(Codigo python)](<./Sprint_4/exercicios/Ex Docker2.md>)
 
 
 ### Certificados:
