@@ -196,4 +196,4 @@
 
 ![Curso Docker](<./Sprint_4/certificados/Curso Docker.png>)
 
-![Estatistica descritiva com python](<../Sprint_4/certificados/Estatistica descritiva com python.png>)
+![Estatistica descritiva com python](<./Sprint_4/certificados/Estatistica descritiva com python.png>)
