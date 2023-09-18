@@ -29,3 +29,7 @@
 ![Curso Docker](<../Sprint_4/certificados/Curso Docker.png>)
 
 ![Estatistica descritiva com python](<../Sprint_4/certificados/Estatistica descritiva com python.png>)
+
+![Métodos ageis](<../certificados/Certificado Métodos ágeis.png>)
+
+![Segurança em aplicações WEb](<../certificados/Certificado Segurança em aplicações WEB.png>)
