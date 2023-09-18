@@ -1,0 +1,7 @@
+Tecnologias essenciais: Computação, Armazenamento, Bancos de dados, Redes, Segurança
+
+Alto grau de flexibilidade da arquitetura
+
+Well-Architected: otimização de custos: Dimensionamento correto de instâncias, Aumento da elasticidade do aplicativo, Escolha do modelo correto de preço, Otimização do armazenamento
+
+Buscar entender o problema do cliente e soluciona-lo

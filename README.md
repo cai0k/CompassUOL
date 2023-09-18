@@ -197,3 +197,28 @@
 ![Curso Docker](<./Sprint_4/certificados/Curso Docker.png>)
 
 ![Estatistica descritiva com python](<./Sprint_4/certificados/Estatistica descritiva com python.png>)
+
+
+
+#### **Sprint 5:**
+* Conceitos e beneficios de se utilizar a AWS cloud.
+* Ferramentas e tecnologia da AWS cloud.
+
+
+### Exercicios:
+
+![Accreditation (Technical) resumo](<./Sprint_5/exercicios/Accreditation (Technical) resumo.txt>)
+
+![Cloud Economics Accreditation resumo](<./Sprint_5/exercicios/Cloud Economics Accreditation resumo.txt>)
+
+![Sales Accreditation resumo](<./Sprint_5/exercicios/Sales Accreditation resumo.txt>)
+
+### Certificados:
+
+![Accreditation (Technical) ](<./Sprint_5/certificados/aws-partner-accreditation-technical.png>)
+
+![Cloud Economics Accreditation](<./Sprint_5/certificados/aws-partner-cloud-economics-accreditation.png>)
+
+![Sales Accreditation](<./Sprint_5/certificados/aws-partner-sales-accreditation-business.png>)
+
+![Cloud Quest](<./Sprint_5/certificados/aws-cloud-quest-cloud-practitioner.png>)
