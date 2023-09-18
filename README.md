@@ -215,7 +215,7 @@
 
 ### Certificados:
 
-![Accreditation (Technical) ](<./Sprint_5/certificados/aws-partner-accreditation-technical.png>)
+![Accreditation (Technical)](<./Sprint_5/certificados/aws-partner-accreditation-technical.png>)
 
 ![Cloud Economics Accreditation](<./Sprint_5/certificados/aws-partner-cloud-economics-accreditation.png>)
 
