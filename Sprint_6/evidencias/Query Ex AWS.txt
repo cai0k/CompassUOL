@@ -1,0 +1,26 @@
+WITH Decadas AS (
+	SELECT FLOOR(ano / 10) * 10 AS Decada,
+		nome,
+		SUM(total) AS Total
+	FROM meubanco.nomes
+	WHERE ano >= 1950
+	GROUP BY FLOOR(ano / 10) * 10,
+		nome
+),
+Ranknomes AS (
+	SELECT Decada,
+		nome,
+		Total,
+		ROW_NUMBER() OVER (
+			PARTITION BY Decada
+			ORDER BY Total DESC
+		) AS Rank
+	FROM Decadas
+)
+SELECT Decada,
+	nome,
+	Total
+FROM Ranknomes
+WHERE Rank <= 3
+ORDER BY Decada,
+	Rank;
