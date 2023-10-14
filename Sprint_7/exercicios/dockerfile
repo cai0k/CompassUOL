@@ -1,0 +1,13 @@
+FROM python:3.8
+
+RUN pip install boto3
+
+COPY movies.csv /app/
+COPY series.csv /app/
+COPY leitor.py /app/
+WORKDIR /app
+
+ENV AWS_ACCESS_KEY_ID=AKIAVFTRRFMNA5FULBWS
+ENV AWS_SECRET_ACCESS_KEY=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
+
+CMD ["python", "leitor.py"]
