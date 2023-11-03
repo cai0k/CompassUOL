@@ -367,3 +367,58 @@
 ![Hadoop](<./Sprint_7/certificados/Certificado-Hadoop.png>)
 
 ![Spark/Pyspark](<./Sprint_7/certificados/Certificado spark-pyspark.png>)
+
+
+
+#### **Sprint 8:**
+* Exercicios de python e pyspark.
+* Continuação do Desafio.
+
+
+### Exercicios:
+
+![Requisição da API do TMDB](<../Sprint_8/exercicios/api-json.py>)
+
+![Exercicio do ApacheSpark](<../Sprint_8/exercicios/codigo-ApacheSpark.txt>)
+
+![Gerador de nomes aleatorios](<../Sprint_8/exercicios/dados.py>)
+
+![Arquivo CSV filtrado](<../Sprint_8/exercicios/desafio.py>)
+
+![Animais em ordem alfabetica](<../Sprint_8/exercicios/warmup.py>)
+
+### Evidencias:
+
+![Arquivo animais.csv](<../Sprint_8/evidencias/animais.csv>)
+
+![ApacheSpark 1 Output](<../Sprint_8/evidencias/ApacheSpark1.png>)
+
+![ApacheSpark 2 Output](<../Sprint_8/evidencias/ApacheSpark2.png>)
+
+![ApacheSpark 3 Output](<../Sprint_8/evidencias/ApacheSpark3.png>)
+
+![ApacheSpark 4 Output](<../Sprint_8/evidencias/ApacheSpark4.png>)
+
+![ApacheSpark 5 Output](<../Sprint_8/evidencias/ApacheSpark5.png>)
+
+![ApacheSpark 6 Output](<../Sprint_8/evidencias/ApacheSpark6.png>)
+
+![Camadas-lambda](<../Sprint_8/evidencias/Camadas-lambda.png>)
+
+![Codigo-TMDB](<../Sprint_8/evidencias/Codigo-TMDB.png>)
+
+![Codigo nomes_aleatorios](<../Sprint_8/evidencias/Codigo-nomes_aleatorios.png>)
+
+![Codigo no Lambda](<../Sprint_8/evidencias/Conta-TMDB.png>)
+
+![Conta-TMDB](<../Sprint_8/evidencias/Conta-TMDB.png>)
+
+![CSV-filtrado_S3](<../Sprint_8/evidencias/CSV-filtrado_S3.png>)
+
+![Filmes-API_S3](<../Sprint_8/evidencias/Filmes-API_S3.png>)
+
+![nomes_aleatorios](<../Sprint_8/evidencias/nomes_aleatorios.png>)
+
+![Warmup-animais.csv](<../Sprint_8/evidencias/Warmup-animais.png>)
+
+![Warmup-codigo](<../Sprint_8/evidencias/Warmup-codigo.png>)

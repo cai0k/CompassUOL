@@ -1,0 +1,67 @@
+# @title Default title text
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import when, lit, rand
+import random
+from pyspark.sql.types import StringType
+
+spark = SparkSession.builder.master("local[*]").appName("Exercicio Intro").getOrCreate()
+
+df_nomes = spark.read.csv("nomes_aleatorios.txt", header=False, inferSchema=True)
+
+df_nomes = df_nomes.withColumnRenamed("_c0", "Nomes")
+df_nomes.printSchema()
+df_nomes.show(10, False)
+
+df_nomes = df_nomes.withColumn("Escolaridade", when(lit(random.random()) < 0.33, "Fundamental").when(lit(random.random()) < 0.67, "Médio").otherwise("Superior"))
+df_nomes.show(10, False)
+
+paises = ["Brasil", "Argentina", "Chile", "Uruguai", "Paraguai", "Colômbia", "Venezuela", "Equador", "Bolívia", "Peru", "Suriname", "Guiana", "Guiana Francesa"]
+df_nomes = df_nomes.withColumn("Pais", when(rand() < 0.077, lit("Brasil"))
+                                 .when(rand() < 0.154, lit("Argentina"))
+                                 .when(rand() < 0.231, lit("Chile"))
+                                 .when(rand() < 0.308, lit("Uruguai"))
+                                 .when(rand() < 0.385, lit("Paraguai"))
+                                 .when(rand() < 0.462, lit("Colômbia"))
+                                 .when(rand() < 0.539, lit("Venezuela"))
+                                 .when(rand() < 0.616, lit("Equador"))
+                                 .when(rand() < 0.693, lit("Bolívia"))
+                                 .when(rand() < 0.77, lit("Peru"))
+                                 .when(rand() < 0.847, lit("Suriname"))
+                                 .otherwise(lit("Guiana Francesa"))
+)
+df_nomes.show(10, False)
+
+df_nomes.show(10, False)
+
+df_nomes = df_nomes.withColumn("AnoNascimento", (1945 + (rand() * 66)).cast("int"))
+df_nomes.show(10, False)
+
+df_select = df_nomes.filter(df_nomes.AnoNascimento >= 2000)
+df_select.show(10, False)
+
+df_nomes.createOrReplaceTempView("pessoas")
+df_select_sql = spark.sql("SELECT * FROM pessoas WHERE AnoNascimento >= 2000")
+df_select_sql.show(10, False)
+
+count_millennials = df_nomes.filter((df_nomes.AnoNascimento >= 1980) & (df_nomes.AnoNascimento <= 1994)).count()
+print(f"Número de Millennials: {count_millennials}")
+
+count_millennials_sql = spark.sql("SELECT COUNT(*) FROM pessoas WHERE AnoNascimento >= 1980 AND AnoNascimento <= 1994").collect()[0][0]
+print(f"Número de Millennials (usando Spark SQL): {count_millennials_sql}")
+
+df_nomes.createOrReplaceTempView("pessoas")
+resultado_sql = spark.sql("""
+    SELECT Pais, 
+           CASE 
+               WHEN AnoNascimento BETWEEN 1944 AND 1964 THEN 'Baby Boomers'
+               WHEN AnoNascimento BETWEEN 1965 AND 1979 THEN 'Geracao X'
+               WHEN AnoNascimento BETWEEN 1980 AND 1994 THEN 'Millennials'
+               WHEN AnoNascimento BETWEEN 1995 AND 2015 THEN 'Geracao Z'
+               ELSE 'Outra'
+           END AS Geracao,
+           COUNT(*) AS Quantidade
+    FROM pessoas
+    GROUP BY Pais, Geracao
+    ORDER BY Pais, Geracao
+""")
+resultado_sql.show()
