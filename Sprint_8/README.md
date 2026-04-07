@@ -1,55 +1,59 @@
-### Bom, meu nome é Caio. Tenho 21 anos, sou de Salvador e estou no 3º semestre de Ciência da Computação na Unifacs. Inicialmente, comecei fazendo Engenharia da Computação, mas quando comecei a estudar programação, curti logo de cara e decidi mudar para um curso com mais foco nessa área. Apesar de a Engenharia ainda ter matérias de programação, havia um grande foco em matérias de cálculo. Essa é minha primeira experiência na área e espero aprender bastante com essa oportunidade. Quanto aos hobbies, sou totalmente fissurado por automobilismo e carros em geral. No tempo livre, sempre que tem, vejo uma corrida ou jogo algum simulador de corrida como [F1 2022](https://store.steampowered.com/app/1692250/F1_22/) e [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/). Não sou muito de sair para festa, mas às vezes encontro com alguns amigos no final de semana
+# 📌 Sprint 8 — Integração de Dados e ETL com API
 
-#### **Sprint 8:**
-* Exercicios de python e pyspark.
-* Continuação do Desafio.
+## 🎯 Objetivo
+Desenvolver e evoluir o pipeline de dados com integração de API externa, processamento com Python/PySpark e armazenamento na AWS.
 
+---
 
-### Exercicios:
+## 🧠 Conteúdos abordados
+- Consumo de API (TMDB)  
+- Manipulação de dados com Python  
+- Processamento com PySpark  
+- Integração com AWS (Lambda e S3)  
+- Continuação do pipeline ETL  
 
-![Requisição da API do TMDB](<../Sprint_8/exercicios/api-json.py>)
+---
 
-![Exercicio do ApacheSpark](<../Sprint_8/exercicios/codigo-ApacheSpark.txt>)
+## 📁 Exercícios
 
-![Gerador de nomes aleatorios](<../Sprint_8/exercicios/dados.py>)
+- [Requisição API TMDB](exercicios/api-json.py)  
+- [Processamento com Spark](exercicios/codigo-ApacheSpark.txt)  
+- [Gerador de dados](exercicios/dados.py)  
+- [Processamento CSV](exercicios/desafio.py)  
+- [Warmup - lista de animais](exercicios/warmup.py)  
 
-![Arquivo CSV filtrado](<../Sprint_8/exercicios/desafio.py>)
+---
 
-![Animais em ordem alfabetica](<../Sprint_8/exercicios/warmup.py>)
+## 📸 Evidências
 
-### Evidencias:
+### 🔹 Processamento com Spark
+![Spark 1](evidencias/ApacheSpark1.png)  
+![Spark 2](evidencias/ApacheSpark2.png)  
+![Spark 3](evidencias/ApacheSpark3.png)  
 
-![Arquivo animais.csv](<../Sprint_8/evidencias/animais.csv>)
+---
 
-![ApacheSpark 1 Output](<../Sprint_8/evidencias/ApacheSpark1.png>)
+### 🔹 Integração com AWS
+![Lambda](evidencias/Camadas-lambda.png)  
+![S3 CSV](evidencias/CSV-filtrado_S3.png)  
+![S3 API](evidencias/Filmes-API_S3.png)  
 
-![ApacheSpark 2 Output](<../Sprint_8/evidencias/ApacheSpark2.png>)
+---
 
-![ApacheSpark 3 Output](<../Sprint_8/evidencias/ApacheSpark3.png>)
+### 🔹 Código e execução
+![Código TMDB](evidencias/Codigo-TMDB.png)  
+![Execução](evidencias/Codigo-nomes_aleatorios.png)  
 
-![ApacheSpark 4 Output](<../Sprint_8/evidencias/ApacheSpark4.png>)
+---
 
-![ApacheSpark 5 Output](<../Sprint_8/evidencias/ApacheSpark5.png>)
+### 🔹 Resultados
+![Dados gerados](evidencias/nomes_aleatorios.png)  
+![Warmup](evidencias/Warmup-animais.png)  
 
-![ApacheSpark 6 Output](<../Sprint_8/evidencias/ApacheSpark6.png>)
+---
 
-![Camadas-lambda](<../Sprint_8/evidencias/Camadas-lambda.png>)
-
-![Codigo-TMDB](<../Sprint_8/evidencias/Codigo-TMDB.png>)
-
-![Codigo nomes_aleatorios](<../Sprint_8/evidencias/Codigo-nomes_aleatorios.png>)
-
-![Codigo no Lambda](<../Sprint_8/evidencias/Conta-TMDB.png>)
-
-![Conta-TMDB](<../Sprint_8/evidencias/Conta-TMDB.png>)
-
-![CSV-filtrado_S3](<../Sprint_8/evidencias/CSV-filtrado_S3.png>)
-
-![Filmes-API_S3](<../Sprint_8/evidencias/Filmes-API_S3.png>)
-
-![nomes_aleatorios](<../Sprint_8/evidencias/nomes_aleatorios.png>)
-
-![Warmup-animais.csv](<../Sprint_8/evidencias/Warmup-animais.png>)
-
-![Warmup-codigo](<../Sprint_8/evidencias/Warmup-codigo.png>)
-
+## 📈 Aprendizados
+- Integração de APIs em pipelines de dados  
+- Processamento distribuído com Spark  
+- Armazenamento e organização de dados na AWS  
+- Evolução de um pipeline ETL completo  
