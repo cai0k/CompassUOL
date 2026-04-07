@@ -1,86 +1,70 @@
-### Bom, meu nome é Caio. Tenho 21 anos, sou de Salvador e estou no 3º semestre de Ciência da Computação na Unifacs. Inicialmente, comecei fazendo Engenharia da Computação, mas quando comecei a estudar programação, curti logo de cara e decidi mudar para um curso com mais foco nessa área. Apesar de a Engenharia ainda ter matérias de programação, havia um grande foco em matérias de cálculo. Essa é minha primeira experiência na área e espero aprender bastante com essa oportunidade. Quanto aos hobbies, sou totalmente fissurado por automobilismo e carros em geral. No tempo livre, sempre que tem, vejo uma corrida ou jogo algum simulador de corrida como [F1 2022](https://store.steampowered.com/app/1692250/F1_22/) e [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/). Não sou muito de sair para festa, mas às vezes encontro com alguns amigos no final de semana
+# 📌 Sprint 6 — Análise de Dados na AWS
 
-#### **Sprint 6:**
-* Fundamentos da Análise de Dados
-* Análise de Dados na AWS
-* Aprofundamento em Conceitos e Ferramentas para Análise de Dados em Streaming
-* Primeiros Passos com o Amazon Redshift
-* Introdução ao Amazon Athena
-* Introdução ao Amazon Elastic MapReduce (EMR)
-* Introdução ao Amazon Kinesis Analytics
-* Introdução ao Amazon Kinesis Stream
-* Introdução ao Amazon Quicksight
-* Análise Serverless (Serverless Analytics)
-* Por que Análise de Dados para Jogos
+## 🎯 Objetivo
+Aplicar conceitos de análise de dados utilizando serviços da AWS, explorando ferramentas para processamento, consulta e visualização de dados.
 
+---
 
+## 🧠 Conteúdos abordados
+- Fundamentos de Análise de Dados  
+- Análise de dados na AWS  
+- Processamento de dados em streaming  
+- Data Warehousing com Amazon Redshift  
+- Consultas com Amazon Athena  
+- Processamento com Amazon EMR  
+- Streaming com Amazon Kinesis  
+- Visualização com Amazon QuickSight  
+- Arquitetura serverless para análise de dados  
 
-### Exercicios:
+---
 
-![Best Practices for Data Warehousing with Amazon Redshift](<../Sprint_6/exercicios/Best Practices for Data Warehousing with Amazon Redshift.md>)
+## 📁 Exercícios
 
-![Data Analytics Fundamentals](<../Sprint_6/exercicios/Data Analytics Fundamentals.md>)
+- [Data Analytics Fundamentals](exercicios/Data%20Analytics%20Fundamentals.md)  
+- [Data Analytics on AWS](exercicios/Data%20Analytics%20on%20AWS.md)  
+- [Amazon Athena](exercicios/Introduction%20to%20Amazon%20Athena.md)  
+- [Amazon Redshift](exercicios/Getting%20Started%20with%20Amazon%20Redshift.md)  
+- [Amazon EMR](exercicios/Introduction%20to%20Amazon%20Elastic%20MapReduce%20(EMR).md)  
+- [Kinesis Analytics](exercicios/Introduction%20to%20Amazon%20Kinesis%20Analytics.md)  
+- [Kinesis Streams](exercicios/Introduction%20to%20Amazon%20Kinesis%20Streams.md)  
+- [QuickSight](exercicios/Introduction%20to%20Amazon%20Quicksight.md)  
+- [Serverless Analytics](exercicios/Serverless%20Analytics.md)  
+- [Exercício AWS CSV](exercicios/Exercicio%20AWS.csv)  
 
-![Data Analytics on AWS](<../Sprint_6/exercicios/Data Analytics on AWS.md>)
+---
 
-![Deep Dive into Concepts and Tools for Analyzing Streaming Data](<../Sprint_6/exercicios/Deep Dive into Concepts and Tools for Analyzing Streaming Data.md>)
+## 📸 Evidências
 
-![Getting Started with Amazon Redshift](<../Sprint_6/exercicios/Getting Started with Amazon Redshift.md>)
+### 🗄️ Armazenamento no Amazon S3
+![S3](evidencias/Bucket%20S3.png)
 
-![Introduction to Amazon Athena](<../Sprint_6/exercicios/Introduction to Amazon Athena.md>)
+---
 
-![Introduction to Amazon Elastic MapReduce (EMR)](<../Sprint_6/exercicios/Introduction to Amazon Elastic MapReduce (EMR).md>)
+### 📊 Consulta com Amazon Athena
+![Athena](evidencias/AWS%20Athena.png)
 
-![Introduction to Amazon Kinesis Analytics](<../Sprint_6/exercicios/Introduction to Amazon Kinesis Analytics.md>)
+---
 
-![Introduction to Amazon Kinesis Streams](<../Sprint_6/exercicios/Introduction to Amazon Kinesis Streams.md>)
+### ⚙️ Processamento com AWS Lambda
+![Lambda](evidencias/Função%20lambda.png)
 
-![Introduction to Amazon Quicksight](<../Sprint_6/exercicios/Introduction to Amazon Quicksight.md>)
+---
 
-![Serverless Analytics](<../Sprint_6/exercicios/Serverless Analytics.md>)
+### 🐳 Execução com Docker
+![Docker](evidencias/Imagem%20AWS-Athena%20Rodando.png)
 
-![Why Analytics for Games](<../Sprint_6/exercicios/Why Analytics for Games.md>)
+---
 
-![Exercicio AWS CSV](<../Sprint_6/exercicios/Exercicio AWS.csv>)
+## 📜 Certificados
 
+![Redshift](certificados/Getting%20Started%20with%20Amazon%20Redshift.png)
 
+![Athena](certificados/Introduction%20to%20Amazon%20Athena.png)
 
-### Evidencias:
+![EMR](certificados/Introduction%20to%20Amazon%20Elastic%20MapReduce%20(EMR).png)
 
-![AWS Athena](<../Sprint_6/evidencias/AWS Athena.png>)
+![Kinesis](certificados/Introduction%20to%20Amazon%20Kinesis%20Streams.png)
 
-![Bucket S3](<../Sprint_6/evidencias/Bucket S3.png>)
+![QuickSight](certificados/Introduction%20to%20Amazon%20Quicksight.png)
 
-![Função Lambda](<../Sprint_6/evidencias/Função lambda.png>)
-
-![Imagem rodando no Docker](<../Sprint_6/evidencias/Imagem AWS-Athena Rodando.png>)
-
-![Query exercicio AWS](<../Sprint_6/evidencias/Query Ex AWS.txt>)
-
-### Certificados:
-
-![Best Practices for Data Warehousing with Amazon Redshift](<../Sprint_6/certificados/Best Practices for Data Warehousing with Amazon Redshift.png>)
-
-![Data Analytics Fundamentals](<../Sprint_6/certificados/Data Analytics Fundamentals.png>)
-
-![Data Analytics on AWS](<../Sprint_6/certificados/Data Analytics on AWS.png>)
-
-![Deep Dive into Concepts and Tools for Analyzing Streaming Data](<../Sprint_6/certificados/Deep Dive into Concepts and Tools for Analyzing Streaming Data .png>)
-
-![Getting Started with Amazon Redshift](<../Sprint_6/certificados/Getting Started with Amazon Redshift.png>)
-
-![Introduction to Amazon Athena](<../Sprint_6/certificados/Introduction to Amazon Athena.png>)
-
-![Introduction to Amazon Elastic MapReduce (EMR)](<../Sprint_6/certificados/Introduction to Amazon Elastic MapReduce (EMR).png>)
-
-![Introduction to Amazon Kinesis Analytics](<../Sprint_6/certificados/Introduction to Amazon Kinesis Analytics.png>)
-
-![Introduction to Amazon Kinesis Streams](<../Sprint_6/certificados/Introduction to Amazon Kinesis Streams.png>)
-
-![Introduction to Amazon Quicksight](<../Sprint_6/certificados/Introduction to Amazon Quicksight.png>)
-
-![Serverless Analytics](<../Sprint_6/certificados/Serverless Analytics.png>)
-
-![Why Analytics for Games](<../Sprint_6/certificados/Why Analytics for Games.png>)
-
-![Conclusão da sprint](<../Sprint_6/certificados/Conclusao sprint 6.png>)
+![Serverless](certificados/Serverless%20Analytics.png)
