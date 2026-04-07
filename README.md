@@ -67,6 +67,40 @@ Processamento distribuído de dados utilizando PySpark.
 
 ---
 
+## 📸 Evidências
+
+### 🗄️ Armazenamento no Amazon S3
+Dados armazenados em bucket para posterior processamento:
+
+![S3](./Sprint_6/evidencias/Bucket%20S3.png)
+
+---
+
+### 📊 Consulta de Dados com Amazon Athena
+Execução de queries para análise dos dados armazenados:
+
+![Athena](./Sprint_6/evidencias/AWS%20Athena.png)
+
+---
+
+### ⚙️ Processamento com AWS Lambda
+Função responsável pelo processamento dos dados:
+
+![Lambda](./Sprint_6/evidencias/Função%20lambda.png)
+
+---
+
+### 🐳 Execução com Docker
+Container utilizado para execução e testes do pipeline:
+
+#### 🔹 Ambiente em execução
+![Docker](./Sprint_7/evidencias/imagem_jupyter_rodando.png)
+
+#### 🔹 Construção da imagem Docker
+![Build Docker](./Sprint_7/evidencias/Comandos_Docker_Desadio.png)
+
+---
+
 ## 🚀 Como Executar
 
 ```bash
