@@ -27,17 +27,17 @@ Aprofundar conhecimentos em Python, introduzir conceitos de programação funcio
 
 Implementação de container para execução de aplicações Python:
 
-- [Dockerfile - Parte 1](exercicios/Ex Docker1.md)  
-- [Dockerfile - Parte 2](exercicios/Ex Docker2.md)  
+- [Dockerfile - Parte 1](exercicios/Ex%20Docker1.md)  
+- [Dockerfile - Parte 2](exercicios/Ex%20Docker2.md)  
 
 ---
 
 ## 📜 Certificados
 
-![Docker](certificados/Curso Docker.png)
+![Docker](certificados/Curso%20Docker.png)
 
-![Estatística com Python](certificados/Estatistica descritiva com python.png)
+![Estatística com Python](certificados/Estatistica%20descritiva%20com%20python.png)
 
-![Métodos Ágeis](certificados/Certificado Métodos ágeis.png)
+![Métodos Ágeis](certificados/Certificado%20Métodos%20ágeis.png)
 
-![Segurança Web](certificados/Certificado Segurança em aplicações WEB.png)
+![Segurança Web](certificados/Certificado%20Segurança%20em%20aplicações%20WEB.png)
