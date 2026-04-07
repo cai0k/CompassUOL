@@ -1,35 +1,43 @@
-### Bom, meu nome é Caio. Tenho 21 anos, sou de Salvador e estou no 3º semestre de Ciência da Computação na Unifacs. Inicialmente, comecei fazendo Engenharia da Computação, mas quando comecei a estudar programação, curti logo de cara e decidi mudar para um curso com mais foco nessa área. Apesar de a Engenharia ainda ter matérias de programação, havia um grande foco em matérias de cálculo. Essa é minha primeira experiência na área e espero aprender bastante com essa oportunidade. Quanto aos hobbies, sou totalmente fissurado por automobilismo e carros em geral. No tempo livre, sempre que tem, vejo uma corrida ou jogo algum simulador de corrida como [F1 2022](https://store.steampowered.com/app/1692250/F1_22/) e [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/). Não sou muito de sair para festa, mas às vezes encontro com alguns amigos no final de semana
+# 📌 Sprint 4 — Python Funcional, Docker e Estatística
 
-### **Sprint 4:**
-* Progrmação funcional com python
-* Docker do básico ao avançado
-* Estatística descritiva com python
+## 🎯 Objetivo
+Aprofundar conhecimentos em Python, introduzir conceitos de programação funcional e aplicar containerização com Docker, além de trabalhar com análise de dados.
 
+---
 
-### Exercicios
+## 🧠 Conteúdos abordados
+- Programação funcional com Python  
+- Containerização de aplicações com Docker  
+- Estatística descritiva com Python  
+- Boas práticas de desenvolvimento  
 
-![Exercicio 1](<../Sprint_4/exercicios/Ex1.md>)
+---
 
-![Exercicio 2](<../Sprint_4/exercicios/Ex2.md>)
+## 📁 Exercícios
 
-![Exercicio 3](<../Sprint_4/exercicios/Ex3.md>)
+- [Exercício 1](exercicios/Ex1.md)  
+- [Exercício 2](exercicios/Ex2.md)  
+- [Exercício 3](exercicios/Ex3.md)  
+- [Exercício 4](exercicios/Ex4.md)  
+- [Exercício 5](exercicios/Ex5.md)  
 
-![Exercicio 4](<../Sprint_4/exercicios/Ex4.md>)
+---
 
-![Exercicio 5](<../Sprint_4/exercicios/Ex5.md>)
+## 🐳 Docker
 
-![Exercicio Docker - parte1(Dockerfile)](<../Sprint_4/exercicios/Ex Docker1.md>)
+Implementação de container para execução de aplicações Python:
 
-![Exercicio Docker - parte 2(Dockerfile)](<../Sprint_4/exercicios/Ex Docker2.md>)
+- [Dockerfile - Parte 1](exercicios/Ex Docker1.md)  
+- [Dockerfile - Parte 2](exercicios/Ex Docker2.md)  
 
-![Exercicio Docker - parte 2(Codigo python)](<../Sprint_4/exercicios/Ex Docker2.md>)
+---
 
-### Certificados:
+## 📜 Certificados
 
-![Curso Docker](<../Sprint_4/certificados/Curso Docker.png>)
+![Docker](certificados/Curso Docker.png)
 
-![Estatistica descritiva com python](<../Sprint_4/certificados/Estatistica descritiva com python.png>)
+![Estatística com Python](certificados/Estatistica descritiva com python.png)
 
-![Métodos ageis](<../Sprint_4/certificados/Certificado Métodos ágeis.png>)
+![Métodos Ágeis](certificados/Certificado Métodos ágeis.png)
 
-![Segurança em aplicações WEb](<../Sprint_4/certificados/Certificado Segurança em aplicações WEB.png>)
+![Segurança Web](certificados/Certificado Segurança em aplicações WEB.png)
