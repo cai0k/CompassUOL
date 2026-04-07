@@ -1,54 +1,64 @@
-### Bom, meu nome é Caio. Tenho 21 anos, sou de Salvador e estou no 3º semestre de Ciência da Computação na Unifacs. Inicialmente, comecei fazendo Engenharia da Computação, mas quando comecei a estudar programação, curti logo de cara e decidi mudar para um curso com mais foco nessa área. Apesar de a Engenharia ainda ter matérias de programação, havia um grande foco em matérias de cálculo. Essa é minha primeira experiência na área e espero aprender bastante com essa oportunidade. Quanto aos hobbies, sou totalmente fissurado por automobilismo e carros em geral. No tempo livre, sempre que tem, vejo uma corrida ou jogo algum simulador de corrida como [F1 2022](https://store.steampowered.com/app/1692250/F1_22/) e [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/). Não sou muito de sair para festa, mas às vezes encontro com alguns amigos no final de semana
+# 📌 Sprint 7 — Big Data com Spark e AWS Glue
 
-#### **Sprint 7:**
-* Conceitos de Hadoop
-* Ambiente Spark/pyspark e comandos.
+## 🎯 Objetivo
+Aplicar conceitos de Big Data utilizando ferramentas como Hadoop, Apache Spark e AWS Glue para processamento de dados.
 
+---
 
-### Exercicios:
+## 🧠 Conteúdos abordados
+- Conceitos de Hadoop  
+- Processamento distribuído com Apache Spark / PySpark  
+- Manipulação de dados com Pandas  
+- Integração com AWS Glue  
+- Execução de jobs e pipelines de dados  
 
-![Ex1-Pandas](<../Sprint_7/exercicios/Ex1-Pandas.png>)
+---
 
-![Ex2-Pandas](<../Sprint_7/exercicios/Ex2-Pandas.png>)
+## 📁 Exercícios
 
-![Ex3-Pandas](<../Sprint_7/exercicios/Ex3-Pandas.png>)
+### 🔹 Pandas
+- ![Exercício 1](exercicios/Ex1-Pandas.png)  
+- ![Exercício 2](exercicios/Ex2-Pandas.png)  
+- ![Exercício 3](exercicios/Ex3-Pandas.png)  
+- ![Exercício 4](exercicios/Ex4-Pandas.png)  
 
-![Ex4-Pandas](<../Sprint_7/exercicios/Ex4-Pandas.png>)
+### 🔹 Conteúdo teórico
+- [Resumo Hadoop](exercicios/Hadoop.md)  
+- [Resumo Spark](exercicios/Spark-Pyspark.md)  
 
-![Resumo Hadoop ](<../Sprint_7/exercicios/Hadoop.md>)
+### 🔹 Scripts e códigos
+- [Código AWS Glue](exercicios/aws-Glue-codigo.py)  
+- [Contador de palavras](exercicios/codigo-contador%20de%20palavras.py)  
+- [Leitor ETL](exercicios/leitor.py)  
+- [Dockerfile](exercicios/dockerfile)  
 
-![Resumo Spark](<../Sprint_7/exercicios/Spark-Pyspark.md>)
+---
 
-![Codigo-AWSGlue](<../Sprint_7/exercicios/aws-Glue-codigo.py>)
+## 📸 Evidências
 
-![Codigo contador de palavras](<../Sprint_7/exercicios/codigo-contador de palavras.py>)
+### ⚙️ Execução no AWS Glue
+![Glue](evidencias/awsGlue.png)
 
-![Codigo desafioETL](<../Sprint_7/exercicios/leitor.py>)
+---
 
-![Dockerfile desadioETL](<../Sprint_7/exercicios/dockerfile>)
+### 🐳 Docker e processamento
+![Docker](evidencias/Comandos_Docker_Desadio.png)
 
-### Evidencias:
+![Execução](evidencias/imagem_jupyter_rodando.png)
 
-![AWS-Glue](<../Sprint_7/evidencias/awsGlue.png>)
+---
 
-![Comandos_Dockerfile_Desafio](<../Sprint_7/evidencias/Comandos_Docker_Desadio.png>)
+### 📊 Resultados
+![Output](evidencias/output-glue.txt)
 
-![Contador de palavras](<../Sprint_7/evidencias/contador de palavras.png>)
+![S3](evidencias/S3_desafio.png)
 
-![Dockerfile_Desafio](<../Sprint_7/evidencias/Dockerfile_Desafio.png>)
+![Tabela](evidencias/tabela%20de%20nomes-glue.png)
 
-![Imagem_Jupyter](<../Sprint_7/evidencias/imagem_jupyter_rodando.png>)
+---
 
-![Jobs-monitoring](<../Sprint_7/evidencias/jobs-monitoring.png>)
+## 📜 Certificados
 
-![Output-Glue](<../Sprint_7/evidencias/output-glue.txt>)
+![Hadoop](certificados/Certificado-Hadoop.png)
 
-![S3-Desafio](<../Sprint_7/evidencias/S3_desafio.png>)
-
-![Tabela de nomes](<../Sprint_7/evidencias/tabela de nomes-glue.png>)
-
-### Certificados:
-
-![Hadoop](<../Sprint_7/certificados/Certificado-Hadoop.png>)
-
-![Spark/Pyspark](<../Sprint_7/certificados/Certificado spark-pyspark.png>)
+![Spark](certificados/Certificado%20spark-pyspark.png)
