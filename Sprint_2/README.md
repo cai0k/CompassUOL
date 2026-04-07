@@ -1,60 +1,41 @@
-### Bom, meu nome é Caio. Tenho 21 anos, sou de Salvador e estou no 3º semestre de Ciência da Computação na Unifacs. Inicialmente, comecei fazendo Engenharia da Computação, mas quando comecei a estudar programação, curti logo de cara e decidi mudar para um curso com mais foco nessa área. Apesar de a Engenharia ainda ter matérias de programação, havia um grande foco em matérias de cálculo. Essa é minha primeira experiência na área e espero aprender bastante com essa oportunidade. Quanto aos hobbies, sou totalmente fissurado por automobilismo e carros em geral. No tempo livre, sempre que tem, vejo uma corrida ou jogo algum simulador de corrida como [F1 2022](https://store.steampowered.com/app/1692250/F1_22/) e [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/). Não sou muito de sair para festa, mas às vezes encontro com alguns amigos no final de semana
+# 📌 Sprint 2 — SQL e Fundamentos de Big Data
 
-### **Sprint 2 SQL e fundamentos BigData**
-* Comandos SQL do mais básico ao mais avançado
-* Conceitos e fundamentos de BigData
+## 🎯 Objetivo
+Desenvolver habilidades em manipulação de dados utilizando SQL e compreender os conceitos fundamentais de Big Data.
 
-## Exercicios
-![Exercicio 1](../Sprint_2/exercicios/Ex1.md)
+---
 
+## 🧠 Conteúdos abordados
+- Consultas SQL (básico ao avançado)  
+- Filtragem, ordenação e agregação de dados  
+- Joins e subqueries  
+- Conceitos e fundamentos de Big Data  
 
-![Exercicio 2](../Sprint_2/exercicios/Ex2.md)
+---
 
+## 📁 Exercícios
 
-![Exercicio 3](../Sprint_2/exercicios/Ex3.md)
+- [Exercício 1](exercicios/Ex1.md)  
+- [Exercício 2](exercicios/Ex2.md)  
+- [Exercício 3](exercicios/Ex3.md)  
+- [Exercício 4](exercicios/Ex4.md)  
+- [Exercício 5](exercicios/Ex5.md)  
+- [Exercício 6](exercicios/Ex6.md)  
+- [Exercício 7](exercicios/Ex7.md)  
+- [Exercício 8](exercicios/Ex8.md)  
+- [Exercício 9](exercicios/Ex9.md)  
+- [Exercício 10](exercicios/Ex10.md)  
+- [Exercício 11](exercicios/Ex11.md)  
+- [Exercício 12](exercicios/Ex12.md)  
+- [Exercício 13](exercicios/Ex13.md)  
+- [Exercício 14](exercicios/Ex14.md)  
+- [Exercício 15](exercicios/Ex15.md)  
+- [Exercício 16](exercicios/Ex16.md)  
 
+---
 
-![Exercicio 4](../Sprint_2/exercicios/Ex4.md)
+## 📜 Certificados
 
+![SQL](certificados/Curso%20SQL.png)
 
-![Exercicio 5](../Sprint_2/exercicios/Ex5.md)
-
-
-![Exercicio 6](../Sprint_2/exercicios/Ex6.md)
-
-
-![Exercicio 7](../Sprint_2/exercicios/Ex7.md)
-
-
-![Exercicio 8](../Sprint_2/exercicios/Ex8.md)
-
-
-![Exercicio 9](../Sprint_2/exercicios/Ex9.md)
-
-
-![Exercicio 10](../Sprint_2/exercicios/Ex10.md)
-
-
-![Exercicio 11](../Sprint_2/exercicios/Ex11.md)
-
-
-![Exercicio 12](../Sprint_2/exercicios/Ex12.md)
-
-
-![Exercicio 13](../Sprint_2/exercicios/Ex13.md)
-
-
-![Exercicio 14](../Sprint_2/exercicios/Ex14.md)
-
-
-![Exercicio 15](../Sprint_2/exercicios/Ex15.md)
-
-
-![Exercicio 16](../Sprint_2/exercicios/Ex16.md)
-
-## Certificados
-
-![Certificado curso SQL](../Sprint_2/certificados/Curso%20SQL.png)
-
-
-![Certificado Fundamentos Bigdata](../Sprint_2/certificados/Certificado%20Big%20Data%20Fundamentos%203.0.png)
+![Big Data](certificados/Certificado%20Big%20Data%20Fundamentos%203.0.png)
